@@ -16,7 +16,7 @@ Replace:
 - `resume.pdf` with your actual resume
 
 ## GitHub Pages
-1. Create a GitHub repository named `abhishek-portfolio`.
+1. Create a GitHub repository named `Abishek-portfolio`.
 2. Upload `index.html`, `style.css`, and `resume.pdf`.
 3. Open repository **Settings → Pages**.
 4. Select **Deploy from a branch**.

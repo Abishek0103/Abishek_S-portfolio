@@ -1,4 +1,4 @@
-# Abhishek Gnanaraj S — Data Analyst Portfolio
+# Abishek Gnanaraj S — Data Analyst Portfolio
 
 Professional portfolio website for GitHub Pages.
 

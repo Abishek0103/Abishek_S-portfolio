@@ -1,27 +1,35 @@
 # Abishek Gnanaraj S — Data Analyst Portfolio
 
-Professional portfolio website for GitHub Pages.
+Professional portfolio website showcasing my experience, skills, projects and Data Analytics work.
 
-## Files
-- `index.html` — portfolio content
-- `style.css` — professional corporate styling
-- `resume.pdf` — add your latest resume here before publishing
+## Technologies
 
-## Before publishing
-Replace:
-- LinkedIn URL
-- GitHub URL
-- Email address
-- Project links
-- `resume.pdf` with your actual resume
+- SQL
+- Excel
+- Power BI
+- Python
+- Statistics
+
+## Portfolio Projects
+
+- E-commerce Sales Analysis
+- HR Attrition Dashboard
+- CKD Exploratory Data Analysis
+- Mutual Fund Data Quality & Reconciliation
+- MIS Reporting & KPI Dashboard
 
 ## GitHub Pages
-1. Create a GitHub repository named `Abishek-portfolio`.
-2. Upload `index.html`, `style.css`, and `resume.pdf`.
-3. Open repository **Settings → Pages**.
-4. Select **Deploy from a branch**.
-5. Select the `main` branch and `/root`.
-6. GitHub will provide your portfolio URL, normally:
-   `https://YOUR-GITHUB-USERNAME.github.io/abhishek-portfolio/`
 
-For a cleaner URL, a repository named `YOUR-GITHUB-USERNAME.github.io` can be used.
+This portfolio is hosted using GitHub Pages.
+
+Repository: `Abishek0103/Abishek_S-portfolio`
+
+Portfolio URL:
+
+`https://abishek0103.github.io/Abishek_S-portfolio/`
+
+## Contact
+
+- GitHub: https://github.com/Abishek0103
+- LinkedIn: www.linkedin.com/in/abishek-s-88a061228
+- Email: abishekgnanaraj.s@gmail.com
